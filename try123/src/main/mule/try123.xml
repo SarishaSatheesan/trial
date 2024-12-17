@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<mule xmlns="http://www.mulesoft.org/schema/mule/core" xmlns:doc="http://www.mulesoft.org/schema/mule/documentation"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.mulesoft.org/schema/mule/core http://www.mulesoft.org/schema/mule/core/current/mule.xsd">
+	<flow name="try123Flow" doc:id="17724911-f9b5-4c44-906a-0b21144cf446" >
+		<logger level="INFO" doc:name="Trial123" doc:id="089a3e27-7b02-44d2-925d-e5f70319b152" />
+	</flow>
+</mule>
